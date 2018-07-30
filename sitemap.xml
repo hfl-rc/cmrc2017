@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/committee/</loc>
+<loc>http://cmrc2017.hfl-rc.com//committee/</loc>
 </url>
 <url>
-<loc>/dates/</loc>
+<loc>http://cmrc2017.hfl-rc.com//dates/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>http://cmrc2017.hfl-rc.com//</loc>
 </url>
 <url>
-<loc>/leaderboard/</loc>
+<loc>http://cmrc2017.hfl-rc.com//leaderboard/</loc>
 </url>
 <url>
-<loc>/news/</loc>
+<loc>http://cmrc2017.hfl-rc.com//news/</loc>
 </url>
 <url>
-<loc>/program/</loc>
+<loc>http://cmrc2017.hfl-rc.com//program/</loc>
 </url>
 <url>
-<loc>/submission/</loc>
+<loc>http://cmrc2017.hfl-rc.com//submission/</loc>
 </url>
 <url>
-<loc>/task/</loc>
+<loc>http://cmrc2017.hfl-rc.com//task/</loc>
 </url>
 </urlset>
