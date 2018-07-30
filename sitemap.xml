@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://cmrc2017.hfl-rc.com/committee/</loc>
+<loc>http://ymcui.github.io/cmrc2017/committee/</loc>
 </url>
 <url>
-<loc>http://cmrc2017.hfl-rc.com/dates/</loc>
+<loc>http://ymcui.github.io/cmrc2017/dates/</loc>
 </url>
 <url>
-<loc>http://cmrc2017.hfl-rc.com/</loc>
+<loc>http://ymcui.github.io/cmrc2017/</loc>
 </url>
 <url>
-<loc>http://cmrc2017.hfl-rc.com/leaderboard/</loc>
+<loc>http://ymcui.github.io/cmrc2017/leaderboard/</loc>
 </url>
 <url>
-<loc>http://cmrc2017.hfl-rc.com/news/</loc>
+<loc>http://ymcui.github.io/cmrc2017/news/</loc>
 </url>
 <url>
-<loc>http://cmrc2017.hfl-rc.com/program/</loc>
+<loc>http://ymcui.github.io/cmrc2017/program/</loc>
 </url>
 <url>
-<loc>http://cmrc2017.hfl-rc.com/submission/</loc>
+<loc>http://ymcui.github.io/cmrc2017/submission/</loc>
 </url>
 <url>
-<loc>http://cmrc2017.hfl-rc.com/task/</loc>
+<loc>http://ymcui.github.io/cmrc2017/task/</loc>
 </url>
 </urlset>
